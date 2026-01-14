@@ -4,6 +4,18 @@ I am a passionate **Junior Full-Stack Developer** focused on building modern, re
 
 ---
 
+### 🚀 About Me
+
+- 🔭 I’m currently working on **React & TypeScript projects**
+- 🌱 I’m currently learning **Advanced React patterns & State Management**
+- ⚡ Fun fact: I love turning complex problems into simple, beautiful code.
+
+<div align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="coding animation" />
+</div>
+
+---
+
 ### 🛠 Tech Stack & Tools
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
@@ -17,22 +29,9 @@ I am a passionate **Junior Full-Stack Developer** focused on building modern, re
 
 ---
 
-### 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KarllWest&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KarllWest&layout=compact&theme=tokyonight&hide_border=true" height="150" alt="languages graph" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KarllWest&theme=tokyonight&hide_border=true" alt="streak graph" />
-</div>
-
----
-
 ### 📫 Let's Connect
 
 I'm open to new opportunities and collaborations!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINK-HERE/)
-- 📧 [Email me](mailto:YOUR-EMAIL@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/davyd-tonkoshtan-ab8241374/)
+- 📧 [Email me](mailto:karlwest396@gmail.com)
