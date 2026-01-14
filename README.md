@@ -1,6 +1,6 @@
 # Hi there, I'm Davyd Tonkoshtan! 👋
 
-I am a passionate **Junior Full-Staack Developer** focused on building modern, responsive, and user-friendly web applications. I love writing clean code and learning new technologies.
+I am a passionate **Junior Full-Stack Developer** focused on building modern, responsive, and user-friendly web applications. I love writing clean code and learning new technologies.
 
 ---
 
@@ -34,5 +34,5 @@ I am a passionate **Junior Full-Staack Developer** focused on building modern, r
 
 I'm open to new opportunities and collaborations!
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/davyd-tonkoshtan-ab8241374/)
-- 📧 [Email me](mailto:tonkoshtan.david@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINK-HERE/)
+- 📧 [Email me](mailto:YOUR-EMAIL@gmail.com)
