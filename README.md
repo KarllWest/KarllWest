@@ -1,6 +1,6 @@
 # Hi there, I'm Davyd Tonkoshtan! 👋
 
-I am a passionate **Junior Frontend Developer** focused on building modern, responsive, and user-friendly web applications. I love writing clean code and learning new technologies.
+I am a passionate **Junior Full-Staack Developer** focused on building modern, responsive, and user-friendly web applications. I love writing clean code and learning new technologies.
 
 ---
 
